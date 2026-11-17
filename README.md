@@ -1,6 +1,6 @@
 # Réplica de Liu et al. (2025): ML interpretable para el riesgo de sepsis en el triage
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leandroacc004/replicacion-liu2025-sepsis-triage/blob/main/Replicacion_Liu2025.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bq6PA8rGsk5n5vJ1JBfwrE1upOnJGu3F?usp=sharing)
 
 Proyecto del curso **Propuesta de Investigación** (Ingeniería de Sistemas, Universidad de Lima, 2026-2).
 Autor: Leandro Aaron Caramantin Cruz.

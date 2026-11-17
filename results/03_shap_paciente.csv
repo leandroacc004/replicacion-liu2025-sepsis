@@ -1,0 +1,11 @@
+,shap
+Cirrosis,0.7875
+Presión sistólica,0.4691
+Frecuencia cardíaca,-0.2748
+Edad,0.2238
+SpO₂,-0.159
+Frecuencia respiratoria,-0.1148
+Enf. coronaria,0.1073
+Sexo masculino,0.0796
+Enfermedad renal crónica,-0.0666
+Temperatura,-0.0584

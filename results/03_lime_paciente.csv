@@ -1,0 +1,11 @@
+condicion,peso
+Cirrosis > 0.00,0.19785184515718288
+Presión sistólica <= 112.00,0.1831149555030547
+anxiety <= 0.00,0.17166044184531187
+BP_high_prehospital <= 0.00,0.15129463784503705
+Letargo <= 0.00,-0.13010343309683006
+palpitations <= 0.00,0.11515686137102873
+Enfermedad renal crónica <= 0.00,-0.10015314763190508
+Presión baja (motivo) <= 0.00,-0.0997604913453003
+numbness <= 0.00,0.09585596692859304
+Estado mental alterado <= 0.00,-0.08361636702299237

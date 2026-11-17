@@ -1,0 +1,79 @@
+,mean_abs_shap
+Presión sistólica,0.3388
+Edad,0.3172
+Frecuencia cardíaca,0.3117
+Frecuencia respiratoria,0.1916
+SpO₂,0.1769
+Enfermedad renal crónica,0.1338
+Cirrosis,0.1173
+Dolor,0.1023
+Temperatura,0.0816
+Diabetes,0.0786
+Presión diastólica,0.0768
+Sexo masculino,0.0757
+Enf. coronaria,0.0637
+Dolor torácico,0.0418
+Estado mental alterado,0.0389
+Insuficiencia cardíaca,0.0378
+Fiebre (motivo),0.0355
+Fumador,0.0257
+Presión baja (motivo),0.0247
+Letargo,0.0138
+arthralgia_pain,0.0111
+palpitations,0.0091
+Sospecha de infección,0.0088
+hematemesis,0.006
+syncope,0.0058
+anxiety,0.0053
+Caída,0.005
+swelling,0.0048
+headache,0.0036
+dizziness,0.0035
+numbness,0.0029
+Hipertensión,0.0028
+Hemoptisis,0.002
+Sangrado digestivo,0.0018
+BP_low_prehospital,0.0017
+back_pain,0.0014
+Síntomas de infección,0.0013
+Ictericia,0.001
+Tumor,0.0009
+Disnea,0.0008
+Tos,0.0006
+limb_pain,0.0005
+seizure,0.0005
+hematuria,0.0004
+cellulitis,0.0003
+leg_pain,0.0002
+Náuseas o vómitos,0.0002
+hyperglycemia,0.0002
+flank_pain,0.0001
+Escalofríos,0.0001
+fatigue,0.0
+Dolor abdominal,0.0
+EPOC,0.0
+aphasia,0.0
+Taquicardia (motivo),0.0
+Fiebre prehospitalaria,0.0
+BP_high_prehospital,0.0
+abscess,0.0
+BP_high,0.0
+diarrhea,0.0
+Debilidad,0.0
+anemia,0.0
+edema,0.0
+slurred_speech,0.0
+rash,0.0
+hypoglycemia,0.0
+Confusión,0.0
+slurred,0.0
+sore_throat,0.0
+dysuria,0.0
+bradycardia,0.0
+stroke,0.0
+wound,0.0
+lightheaded,0.0
+gait_unsteady,0.0
+visual_changes,0.0
+arm_pain,0.0
+buttock_pain,0.0
